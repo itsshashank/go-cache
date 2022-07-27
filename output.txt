@@ -1,0 +1,7 @@
+vscode ➜ /workspaces/go-cache (main ✗) $ go run src/main.go 
+Sleeping for 1 min
+key 1 Not found
+Found 1.2 has a
+Sleeping for 1 min
+key 1 Not found
+key 1.2 Not found
